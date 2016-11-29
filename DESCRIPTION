@@ -1,0 +1,8 @@
+Package: gentest
+Type: Package
+Title: Generative property-based testing with automatic doc generation
+Version: 0.0.1
+Author: Aleksander Rutkowski
+URL: https://github.com/alekrutkowski/gentest
+Imports:
+   magrittr
